@@ -305,10 +305,7 @@ Location: `SAM-FineTuned/Phase 3.ipynb`
 
 ### Inference Pipeline (Production)
 
-![Inference Pipeline](Asset/Inference%20Pipeline.png)
-*Figure 3: Two-stage inference workflow: Text Prompt → YOLO Detection → SAM Segmentation*
-
-
+![Inference Pipeline](./Asset/Inference%20Pipeline.png)
 
 **Supported Prompts**:
 - **Cracks**: "crack", "find crack", "detect fracture", "segment crack"
